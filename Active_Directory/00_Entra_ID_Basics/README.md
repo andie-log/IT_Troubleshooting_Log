@@ -6,6 +6,16 @@ The focus was on understanding tenant structure, domain configuration, and basic
 
 ---
 
+## Active Directory vs Azure AD (Entra ID)
+
+Active Directory Domain Services (AD DS) is an on-premises directory service primarily used to manage Windows domain environments, including user authentication, computer accounts, and Group Policy.
+
+Azure Active Directory, now known as Microsoft Entra ID, is a cloud-based identity and access management service designed for modern applications and cloud services such as Microsoft 365.
+
+While both manage identities, they serve different purposes and are often used together in hybrid environments rather than as replacements.
+
+---
+
 ## Environment
 - Microsoft Azure
 - Microsoft Entra ID (formerly Azure AD)
